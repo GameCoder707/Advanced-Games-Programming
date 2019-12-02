@@ -1,0 +1,1 @@
+W Assets/Objects/cubeObj.obj Assets/Textures/wood_tex.png 0.2 0.2 1.5 1

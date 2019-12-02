@@ -1,0 +1,36 @@
+Camera 2
+
+0.0 0.0 -10.0 0.0 45.0 0.5 100.0
+0.0 0.0 0.0 0.0 90.0 0.5 200.0
+
+Player 
+
+P Assets/Objects/cubeObj.obj Assets/Textures/skin_tex.jpg 0.0 1.0 0.0 1.0 1.0 1.0 1
+
+Enemy 2
+
+E Assets/Objects/cubeObj.obj Assets/Textures/skin_tex.jpg 5.0 1.0 20.0 1.0 1.0 1.0 1
+E Assets/Objects/cubeObj.obj Assets/Textures/skin_tex.jpg -20.0 1.0 -10.0 1.0 1.0 1.0 1
+
+Spear 1
+
+W Assets/Objects/cubeObj.obj Assets/Textures/wood_tex.png 5.0 1.0 3.0 0.2 0.2 1.5 1
+
+Club 2
+
+W Assets/Objects/cubeObj.obj Assets/Textures/wood_tex.png 1.0 -0.5 1.0 0.2 0.2 1.5 0
+W Assets/Objects/cubeObj.obj Assets/Textures/wood_tex.png 1.0 -0.5 1.0 0.2 0.2 1.5 0
+
+Block 1
+
+B Assets/Objects/cubeObj.obj Assets/Textures/rock_tex.jpg 15.0 1.0 0.0 0.5 0.5 0.5 1
+
+Food 1
+
+F Assets/Objects/Sphere.obj Assets/Textures/fruit_tex.jpg 10.0 -1.5 0.0 0.25 0.25 0.25 0
+
+Statik 3
+
+S Assets/Objects/cubeObj.obj Assets/Textures/grass_tex.jpg 0.0 -3.0 0.0 100.0 1.0 100.0 0
+S Assets/Objects/cubeObj.obj Assets/Textures/leaves_tex.png 5.0 -1.0 10.0 0.5 2.0 0.5 0
+S Assets/Objects/cubeObj.obj Assets/Textures/leaves_tex.png 20.0 -1.0 10.0 0.5 2.0 0.5 0
